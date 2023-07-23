@@ -1,16 +1,17 @@
-# Syed Asfar Ahmad Bukhari - Frontend Web Developer
+# Syed Asfar Ahmad Bukhari - Frontend Web Developer & Data Scientist
 
 Welcome to my interactive resume website, showcasing my skills, education, professional experience, volunteer experience, and ambassador experience.
 
 ## Table of Contents
 
-1. [Download CV](#download-cv)
-2. [Let's Talk](#lets-talk)
-3. [Qualifications](#qualifications)
-4. [Experience](#experience)
-5. [Skills](#skills)
-6. [Volunteer Experience](#volunteer-experience)
-7. [Contact Me](#contact-me)
+1. [Header]
+2. [Qualifications]
+3. [Experience]
+4. [Skills]
+5. [Volunteer Experience]
+6. [Ambassador Experience]
+7. [Contact Me]
+8. [Footer]
 
 ## Download CV
 
