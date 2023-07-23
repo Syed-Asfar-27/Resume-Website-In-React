@@ -1,0 +1,41 @@
+.container.volunteer_container{
+    width: 60%;
+    display: grid;
+    grid-template-columns: 45% 45%;
+    gap: 12%;
+}
+.volunteer_experience{
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+}
+.volunteer{
+    background: transparent ;
+    border: 2px solid transparent;
+    border-color: var(--color-primary-variant);
+    padding: 1.2rem;
+    border-radius: 3rem;
+    text-align: center;
+}
+
+.volunteer:hover{
+    border-color: var(--color-primary);
+}
+
+.volunteer_icon{
+    font-size: 1.5rem;
+
+}
+
+@media screen and (max-width:1024px){
+    .container.volunteer_container{
+        grid-template-columns: 1fr;
+        gap: 3%;
+        width: 70%;
+    }
+}
+   @media screen and (max-width:600px){
+     .container.volunteer_container{
+        width: 95%;
+     }
+     }

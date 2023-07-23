@@ -1,0 +1,46 @@
+.container.ambassador_container{
+    width: 60%;
+    display: grid;
+    grid-template-columns: 45% 45%;
+    gap: 12%;
+}
+.ambassador_experience{
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+}
+.ambassador{
+    background: var(--color-bg-variant);
+    padding: 1.2rem;
+    border-radius: 3rem;
+    text-align: center;
+    border: 1px solid transparent;
+    transition: var(--transition);
+}
+
+.ambassador:hover{
+    background: transparent;
+    border-color: var(--color-primary-variant);
+}
+
+.ambassador_icon{
+    font-size: 1.5rem;
+
+}
+
+@media screen and (max-width:1024px){
+    .container.ambassador_container{
+        grid-template-columns: 1fr;
+        gap: 3%;
+        width: 70%;
+    }
+}
+   @media screen and (max-width:600px){
+     .social_work{
+        margin-top: 8rem;
+        margin-bottom: -2rem;
+     }
+     .container.ambassador_container{
+        width: 95%;
+     }
+     }
