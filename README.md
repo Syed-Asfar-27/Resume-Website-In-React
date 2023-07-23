@@ -4,26 +4,14 @@ Welcome to my interactive resume website, showcasing my skills, education, profe
 
 ## Table of Contents
 
-1. [Header]
-2. [Qualifications]
-3. [Experience]
-4. [Skills]
-5. [Volunteer Experience]
-6. [Ambassador Experience]
-7. [Contact Me]
-8. [Footer]
-
-## Download CV
-
-Click the button below to download my CV.
-
-[![Download CV](link_to_cv_download_button)](link_to_your_cv.pdf)
-
-## Let's Talk
-
-Click the button below to jump to the Contact Me section and get in touch with me.
-
-[![Let's Talk](link_to_lets_talk_button)](#contact-me)
+1. Header
+2. Qualifications
+3. Experience
+4. Skills
+5. Volunteer Experience
+6. Ambassador Experience
+7. Contact Me
+8. Footer
 
 ## Frontend Web Developer | Data Scientist | Other Skills
 
