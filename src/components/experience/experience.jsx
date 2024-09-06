@@ -1,6 +1,7 @@
 import React from 'react'
 import './experience.css'
-import ecs from '../../assets/ecs.png'
+import pel from '../../assets/pel.jpg'
+import amal from '../../assets/amal.png'
 
 
 const experience = () => {
@@ -14,12 +15,27 @@ const experience = () => {
           <div className="experience_cards">
             <div className='experience_card'>
               <div>
-              <img className='ecs' src={ecs} alt="" />
+              <img className='pel' src={pel} alt="" />
               </div>
               <div className='experience_content'>
-              <h5>Excellence Code Solution (ECS)</h5>
-              <h5>Frontend Web Developer</h5>
-              <h5>Jult 2022 - October 2022</h5>
+              <h5>Pal Elektron Limited (PEL)</h5>
+              <h5>IT Internship</h5>
+              <h5>July 2024 - August 2024</h5>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div className="experience_content">
+          <div className="experience_cards">
+            <div className='experience_card'>
+              <div>
+              <img className='amal' src={amal} alt="" />
+              </div>
+              <div className='experience_content'>
+              <h5>Amal Academy</h5>
+              <h5>Career Prep Fellowship</h5>
+              <h5>March 2024 - June 2024</h5>
               </div>
             </div>
           </div>
