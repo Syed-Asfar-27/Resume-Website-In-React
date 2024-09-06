@@ -153,6 +153,26 @@ const skills = () => {
           </article>
       </div>
     </div>
+
+      <div className="tools">
+      <h3>Tools</h3>
+        <div className="skill_content">
+          <article className='skill_details'>
+          <BsPatchCheckFill className='skill_details-icon'/>
+          <div>
+          <h4>VS Code</h4>
+          </div>
+          
+          </article>
+          <article className='skill_details'>
+          <BsPatchCheckFill className='skill_details-icon'/>
+          <div>
+          <h4>Colaboratory</h4>
+          </div>
+          
+          </article>
+      </div>
+    </div>
     </div>
     </section>
   )
